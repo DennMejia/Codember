@@ -4,8 +4,6 @@ with open('message_02.txt',"r") as myfile:
 
 value=0
 
-value = 0
-
 for symbol in data:
     
     if symbol == '#':
